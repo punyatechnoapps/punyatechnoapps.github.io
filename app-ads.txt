@@ -4,6 +4,11 @@ facebook.com, 1543780774110809, DIRECT, c3e20eee3f780d68
 google.com, pub-3068255257089060, RESELLER, f08c47fec0942fa0
 adbumps.com, 22951906608, DIRECT
 
+ 	
+google.com, pub-6479999173277695, RESELLER, f08c47fec0942fa0
+google.com, pub-9368783394598679, RESELLER, f08c47fec0942fa0
+lhkmedia.io, 123139282131, DIRECT
+
 google.com, pub-2960293519697422, DIRECT, f08c47fec0942fa0
 gameadzone.com, 453, DIRECT
 
